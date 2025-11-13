@@ -1,188 +1,524 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.0.2">
   <diagram name="Página-1" id="cmYPZnpsak6by6nr6NV-">
-    <mxGraphModel dx="2954" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="5305" dy="2664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-264" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#A20025,#210000);strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="224" width="920" height="386" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-242" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#A20025,#210000);strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="224" width="920" height="386" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-234" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#A20025,#210000);strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="660" width="390" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-192" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#A20025,#210000);strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2684.25" y="660" width="630" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-190" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#A20025,#210000);strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="660" width="920" height="580" as="geometry" />
+        </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-62" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0050EF,#14273A);strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="740" y="190" width="610" height="240" as="geometry" />
+          <mxGeometry x="394" y="220" width="610" height="240" as="geometry" />
         </mxCell>
         <mxCell id="3-16tjFMUy_3xAsQ03og-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0050EF,#14273A);strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="77.5" y="190" width="642.5" height="240" as="geometry" />
+          <mxGeometry x="-268.5" y="220" width="642.5" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="3-16tjFMUy_3xAsQ03og-1" value="Beacon Diagrama - BLE funcionamiento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="690" y="10" width="990" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="3-16tjFMUy_3xAsQ03og-3" value="FSMstate : State Table" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="20" y="20" width="90" height="50" as="geometry" />
+        <mxCell id="3-16tjFMUy_3xAsQ03og-1" value="Beacon Diagrama - BLE 5.2 funcionamiento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="600" y="30" width="1080" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3-16tjFMUy_3xAsQ03og-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Datos de la capa GAP (Publicidad)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="465" y="90" width="470" height="30" as="geometry" />
+          <mxGeometry x="150" y="120" width="470" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3-16tjFMUy_3xAsQ03og-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Datos de la capa GATT (Conección)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1590" y="80" width="470" height="30" as="geometry" />
+          <mxGeometry x="2162.5" y="120" width="470" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J9ODKmnOTcjMQMIpr3Yd-3" target="J9ODKmnOTcjMQMIpr3Yd-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-3" value="Nombre Completo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#000099);" vertex="1" parent="1">
-          <mxGeometry x="880" y="300" width="150" height="30" as="geometry" />
+          <mxGeometry x="534" y="330" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J9ODKmnOTcjMQMIpr3Yd-4" target="J9ODKmnOTcjMQMIpr3Yd-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-4" value="Servicio UUID Completo (128 bit)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#000099);" vertex="1" parent="1">
-          <mxGeometry x="142.5" y="340" width="220" height="30" as="geometry" />
+          <mxGeometry x="-203.5" y="370" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-5" value="Valor hex: 0x09" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="330" width="100" height="20" as="geometry" />
+          <mxGeometry x="584" y="360" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-6" value="Valor hex: 0x07" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="262.5" y="370" width="100" height="20" as="geometry" />
+          <mxGeometry x="-83.5" y="400" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-12" value="SMART_BEACON" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#000099);" vertex="1" parent="1">
-          <mxGeometry x="1080" y="300" width="110" height="30" as="geometry" />
+          <mxGeometry x="734" y="330" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-13" value="a3c87500-8ed3-4bdf-8a39-a01bebede295" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#000099);" vertex="1" parent="1">
-          <mxGeometry x="392.5" y="340" width="250" height="30" as="geometry" />
+          <mxGeometry x="46.5" y="370" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-14" value="Tipo" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="142.5" y="320" width="40" height="20" as="geometry" />
+          <mxGeometry x="-203.5" y="350" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-15" value="Dato (Eddystone UUID)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="392.5" y="320" width="135" height="20" as="geometry" />
+          <mxGeometry x="46.5" y="350" width="135" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-16" value="Tipo" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="880" y="280" width="40" height="20" as="geometry" />
+          <mxGeometry x="534" y="310" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-17" value="Dato" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="280" width="30" height="20" as="geometry" />
+          <mxGeometry x="734" y="310" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J9ODKmnOTcjMQMIpr3Yd-18" target="J9ODKmnOTcjMQMIpr3Yd-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-18" value="Banderas de publicidad" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#000099);" vertex="1" parent="1">
-          <mxGeometry x="142.5" y="270" width="150" height="30" as="geometry" />
+          <mxGeometry x="-203.5" y="300" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-19" value="Valor hex: 0x01" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="192.5" y="300" width="100" height="20" as="geometry" />
+          <mxGeometry x="-153.5" y="330" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-20" value="0x06" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#000099);" vertex="1" parent="1">
-          <mxGeometry x="392.5" y="270" width="130" height="30" as="geometry" />
+          <mxGeometry x="46.5" y="300" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-21" value="Tipo" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="142.5" y="250" width="40" height="20" as="geometry" />
+          <mxGeometry x="-203.5" y="280" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-22" value="Dato (Valor de bandera)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="392.5" y="250" width="130" height="20" as="geometry" />
+          <mxGeometry x="46.5" y="280" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-61" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Datos de publicidad Beacon&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="222.5" y="190" width="320" height="20" as="geometry" />
+          <mxGeometry x="-123.5" y="220" width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-63" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Respuesta de escaneo del Beacon&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="885" y="190" width="320" height="20" as="geometry" />
+          <mxGeometry x="539" y="220" width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-65" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Publicidad del Beacon por default&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="532.5" y="150" width="335" height="30" as="geometry" />
+          <mxGeometry x="199" y="180" width="335" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0050EF,#14273A);strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="740" y="500" width="610" height="300" as="geometry" />
+          <mxGeometry x="394" y="530" width="610" height="300" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0050EF,#14273A);strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="75" y="500" width="645" height="300" as="geometry" />
+          <mxGeometry x="-271" y="530" width="645" height="300" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J9ODKmnOTcjMQMIpr3Yd-69" target="J9ODKmnOTcjMQMIpr3Yd-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-69" value="Nombre Completo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#000099);" vertex="1" parent="1">
-          <mxGeometry x="882.5" y="650" width="150" height="30" as="geometry" />
+          <mxGeometry x="534" y="665" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-72" value="Valor hex: 0x09" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="932.5" y="680" width="100" height="20" as="geometry" />
+          <mxGeometry x="584" y="695" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-74" value="SMART_BEACON" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#000099);" vertex="1" parent="1">
-          <mxGeometry x="1082.5" y="650" width="110" height="30" as="geometry" />
+          <mxGeometry x="734" y="665" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-78" value="Tipo" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="882.5" y="630" width="40" height="20" as="geometry" />
+          <mxGeometry x="534" y="645" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-79" value="Dato" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1082.5" y="630" width="30" height="20" as="geometry" />
+          <mxGeometry x="734" y="645" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-86" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Datos de publicidad Beacon&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="220" y="500" width="320" height="20" as="geometry" />
+          <mxGeometry x="-126" y="530" width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-87" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Respuesta de escaneo del Beacon&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="885" y="500" width="320" height="20" as="geometry" />
+          <mxGeometry x="539" y="530" width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-88" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Publicidad del Beacon por configuración&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="460" width="365" height="30" as="geometry" />
+          <mxGeometry x="186.5" y="490" width="365" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J9ODKmnOTcjMQMIpr3Yd-90" target="J9ODKmnOTcjMQMIpr3Yd-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-90" value="Datos del Servicio UUID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#000099);" vertex="1" parent="1">
-          <mxGeometry x="160" y="720" width="140" height="30" as="geometry" />
+          <mxGeometry x="-186" y="750" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-91" value="Valor hex: 0x16" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="750" width="100" height="20" as="geometry" />
+          <mxGeometry x="-146" y="780" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-92" value="Configuración de UID o URL Eddystone" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#000099);" vertex="1" parent="1">
-          <mxGeometry x="412.5" y="720" width="250" height="30" as="geometry" />
+          <mxGeometry x="66.5" y="750" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-93" value="Tipo" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="700" width="40" height="20" as="geometry" />
+          <mxGeometry x="-186" y="730" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-94" value="Dato" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="412.5" y="700" width="35" height="20" as="geometry" />
+          <mxGeometry x="66.5" y="730" width="35" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J9ODKmnOTcjMQMIpr3Yd-96" target="J9ODKmnOTcjMQMIpr3Yd-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-96" value="Lista de servicios completa (16 bits UUIDs)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#000099);" vertex="1" parent="1">
-          <mxGeometry x="160" y="650" width="235" height="30" as="geometry" />
+          <mxGeometry x="-186" y="680" width="235" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-97" value="Valor hex: 0x03" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="295" y="680" width="100" height="20" as="geometry" />
+          <mxGeometry x="-51" y="710" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-98" value="0xFEAA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#000099);" vertex="1" parent="1">
-          <mxGeometry x="412.5" y="650" width="150" height="30" as="geometry" />
+          <mxGeometry x="66.5" y="680" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-99" value="Tipo" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="630" width="40" height="20" as="geometry" />
+          <mxGeometry x="-186" y="660" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-100" value="Dato (Servicio Eddystone)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="412.5" y="630" width="150" height="20" as="geometry" />
+          <mxGeometry x="66.5" y="660" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J9ODKmnOTcjMQMIpr3Yd-102" target="J9ODKmnOTcjMQMIpr3Yd-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-102" value="Banderas de publicidad" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#000099);" vertex="1" parent="1">
-          <mxGeometry x="160" y="580" width="150" height="30" as="geometry" />
+          <mxGeometry x="-186" y="610" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-103" value="Valor hex: 0x01" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="610" width="100" height="20" as="geometry" />
+          <mxGeometry x="-136" y="640" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-104" value="0x06" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#000099);" vertex="1" parent="1">
-          <mxGeometry x="412.5" y="580" width="130" height="30" as="geometry" />
+          <mxGeometry x="66.5" y="610" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-105" value="Tipo" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="560" width="40" height="20" as="geometry" />
+          <mxGeometry x="-186" y="590" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-106" value="Dato (Valor de bandera)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="412.5" y="560" width="130" height="20" as="geometry" />
+          <mxGeometry x="66.5" y="590" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-107" value="&lt;br&gt;&lt;div&gt;Nota: Los datos de publicidad y la respuesta de escaneo cuanta cada una con 31 bytes para mandar data, estos bytes son los Tipos, los datos y se debe considerar un byte extra por la cantidad de tipos que tenga la publicidad y la respuesta, ya que incluye la longitud.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="820" width="1445" height="30" as="geometry" />
+          <mxGeometry x="-276" y="850" width="1445" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-108" value="Nota: La configuración de datos para el UID y URL Eddystone depende del usuario." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="77.5" y="910" width="465" height="30" as="geometry" />
+          <mxGeometry x="-268.5" y="940" width="448.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-109" value="&lt;div&gt;Nota: El intervalo del envío de la publicidad y la potencia del mismo se pueden configurar por Slot.&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="77.5" y="880" width="545" height="30" as="geometry" />
+          <mxGeometry x="-268.5" y="910" width="528.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-110" value="&lt;div&gt;Nota: La publicidad del Beacon para configurar el UID y URL cuenta con 3 slots, lo que quiere decir que puede configurar 3 publicidades diferentes.&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="850" width="805" height="30" as="geometry" />
+          <mxGeometry x="-276" y="880" width="805" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-113" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#A20025,#210000);strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3210" y="224" width="390" height="386" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-132" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Servicio Acelerómetro (Propio)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3240" y="234" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-134" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Servicios del Beacon&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2235" y="180" width="335" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-136" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;1aba7500-0000-0000-0000-000000000000&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);" vertex="1" parent="1">
+          <mxGeometry x="3240" y="296.5" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-137" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Servicio Primario UUID&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="276.5" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-138" value="1aba7501-0000-0000-0000-000000000000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);" vertex="1" parent="1">
+          <mxGeometry x="3270" y="366.5" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-139" value="Característica UUID" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3270" y="346.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-140" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3270" y="411.5" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-141" value="Propiedades: Notificaciones" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3278" y="416.5" width="155" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-142" value="Descripciones: Característica del cliente" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3275" y="446.5" width="225" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-143" value="Nota: Activa lecturas del acelerómetro del Beacon (LIS2HH12TR) y el estado del taladro (apagado, encendido, trabajando)." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3275" y="481.5" width="235" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-144" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;a3c87500-8ed3-4bdf-8a39-a01bebede295&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);" vertex="1" parent="1">
+          <mxGeometry x="1350" y="740" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-145" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Servicio Primario UUID&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="720" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-146" value="a3c87501-8ed3-4bdf-8a39-a01bebede295" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);" vertex="1" parent="1">
+          <mxGeometry x="1380" y="810" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-147" value="Característica UUID (Capacidades)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="790" width="197.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-148" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="855" width="250" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-149" value="Propiedades: Lectura" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1388" y="860" width="119.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-151" value="Nota: Lectura de datos del Slot y especificaciones del Beacon, información de estado del Beacon." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1387.5" y="895" width="235" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-152" value="a3c87502-8ed3-4bdf-8a39-a01bebede295" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);" vertex="1" parent="1">
+          <mxGeometry x="1657.5" y="810" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-153" value="Característica UUID (Slot Activo)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1657.5" y="790" width="197.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-154" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1657.5" y="855" width="250" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-155" value="Propiedades: Lectura y Escritura" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1665.5" y="860" width="182" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-156" value="Nota: Lectura para identificar en que Slot se están haciendo los ajustes o escritura para cambiar a otro Slot." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1665" y="895" width="235" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-158" value="a3c87503-8ed3-4bdf-8a39-a01bebede295" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);" vertex="1" parent="1">
+          <mxGeometry x="1937.5" y="810" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-159" value="Característica UUID (Intervalo de publicidad)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1937.5" y="790" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-160" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1937.5" y="855" width="250" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-161" value="Propiedades: Lectura y Escritura" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1945.5" y="860" width="182" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-162" value="Nota: Lectura para identificar con que intervalo esta la publicidad BLE o escritura para cambiar el intervalo." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1945" y="895" width="235" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-163" value="a3c87504-8ed3-4bdf-8a39-a01bebede295" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);" vertex="1" parent="1">
+          <mxGeometry x="1380" y="1015" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-164" value="Característica UUID (Radio Tx Power)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="995" width="207.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-165" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="1060" width="250" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-166" value="Propiedades: Lectura y Escritura" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1388" y="1065" width="179.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-167" value="Nota: Lectura para identificar en que potencia está la publicidad BLE del Slot o escritura para cambiar la potencia del Slot." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1387.5" y="1100" width="235" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-168" value="a3c8750a-8ed3-4bdf-8a39-a01bebede295" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);" vertex="1" parent="1">
+          <mxGeometry x="1657.5" y="1015" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-169" value="Característica UUID (Publicidad datos del Slot)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1657.5" y="995" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-170" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1657.5" y="1060" width="250" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-171" value="Propiedades: Lectura y Escritura" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1665.5" y="1065" width="182" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-172" value="Nota: Permite escribir los datos de publicidad BLE para Beacon Eddystone como UID, URL o resetear ese Slot, con la lectura se ve que datos tiene activos." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1665" y="1100" width="235" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-173" value="a3c8750b-8ed3-4bdf-8a39-a01bebede295" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);" vertex="1" parent="1">
+          <mxGeometry x="1937.5" y="1015" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-174" value="Característica UUID (Reset de fábrica)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1937.5" y="995" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-175" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1937.5" y="1060" width="250" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-176" value="Propiedades: Escritura" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1945.5" y="1065" width="182" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-177" value="Nota: Permite regresar al dispositivo a su estado de fábrica, borrando configuraciones que se hicieron en los Slots." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1945" y="1100" width="235" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-178" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;00001523-1212-efde-1523-785feabcd123&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);" vertex="1" parent="1">
+          <mxGeometry x="2711.75" y="750" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-179" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Servicio Primario UUID&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2711.75" y="730" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-180" value="00001524-1212-efde-1523-785feabcd123" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);" vertex="1" parent="1">
+          <mxGeometry x="2741.75" y="820" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-181" value="Característica UUID (Botón)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2741.75" y="800" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-182" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2741.75" y="865" width="250" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-183" value="Propiedades: Notificaciones y Lectura" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2749.75" y="870" width="212" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-184" value="Nota: Permite leer el estado del botón (el Beacon no cuenta con Botón)." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2749.25" y="905" width="235" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-185" value="00001525-1212-efde-1523-785feabcd123" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);" vertex="1" parent="1">
+          <mxGeometry x="3019.25" y="820" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-186" value="Característica UUID (LED)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3019.25" y="800" width="152.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-187" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3019.25" y="865" width="250" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-188" value="Propiedades: Escritura" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3027.25" y="870" width="182" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-189" value="Nota: Permite encender o apagar el LED del Beacon." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3026.75" y="905" width="235" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-191" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Servicio Configuración Eddystone&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1635" y="670" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-206" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;8d53dc1d-1db7-4cd3-868b-8a527460aa84&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);" vertex="1" parent="1">
+          <mxGeometry x="2290" y="727.5" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-207" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Servicio Primario UUID&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="707.5" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-208" value="da2e7828-fbce-4e01-ae9e-261174997c48" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);" vertex="1" parent="1">
+          <mxGeometry x="2320" y="797.5" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-209" value="Característica UUID (SMP)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="777.5" width="155" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-210" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="842.5" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-211" value="Propiedades: Notificaciones y Escritura (No respuesta)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2325" y="847.5" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-212" value="Nota: Este servicio es exclusivamente para la actualización de Firmware por OTA." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2327.5" y="917.5" width="235" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-218" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Servicio LED Botón Nordic&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2839.25" y="675" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-221" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;0x1801&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);" vertex="1" parent="1">
+          <mxGeometry x="1344" y="299" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-222" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Servicio Primario UUID&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1344" y="279" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-223" value="0x2A05" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);" vertex="1" parent="1">
+          <mxGeometry x="1374" y="369" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-224" value="Característica UUID (Cambiar servicio)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1374" y="349" width="216" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-225" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1374" y="414" width="250" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-226" value="Propiedades: Indicaciones" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1382" y="419" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-227" value="Nota: Indicaciones de los servicios." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1381.5" y="494" width="208.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-228" value="0x2B29" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);" vertex="1" parent="1">
+          <mxGeometry x="1651.5" y="369" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-229" value="Característica UUID (Características Soportadas)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1651.5" y="349" width="268.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-230" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1651.5" y="414" width="250" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-231" value="Propiedades: Lectura y Escritura" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1659.5" y="419" width="182" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-232" value="Nota: Características soportadas por el dispositivo." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1659" y="454" width="235" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-233" value="Descripciones: Característica del cliente (UUID 0x2902)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2325" y="887.5" width="241" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-235" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Servicio Protocolo de Gestión Simple&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2290" y="670" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-236" value="0x2B2A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);" vertex="1" parent="1">
+          <mxGeometry x="1930" y="369" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-237" value="Característica UUID (Database Hash)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="349" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-238" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="414" width="250" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-239" value="Propiedades: Lectura" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1938" y="419" width="122" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-240" value="Nota: Datos del dispositivo." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1937.5" y="454" width="152.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-241" value="Descripciones: Característica del cliente (UUID 0x2902)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1375.5" y="456.5" width="241" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-243" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Servicio de Atributo Genérico&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1625.75" y="234" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-245" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;0x1800&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);" vertex="1" parent="1">
+          <mxGeometry x="2282.5" y="291.5" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-246" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Servicio Primario UUID&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2282.5" y="271.5" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-247" value="0x2A00" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);" vertex="1" parent="1">
+          <mxGeometry x="2312.5" y="361.5" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-248" value="Característica UUID (Nombre de dispositivo)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2312.5" y="341.5" width="247.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-249" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2312.5" y="406.5" width="250" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-250" value="Propiedades: Lectura y Escritura" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2320.5" y="411.5" width="179.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-251" value="Nota: Lectura y escritura del nombre del sispositivo." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2312.5" y="454" width="229.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-252" value="0x2A01" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);" vertex="1" parent="1">
+          <mxGeometry x="2590" y="361.5" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-253" value="Característica UUID (Apariencia)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2590" y="341.5" width="268.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-254" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2590" y="406.5" width="250" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-255" value="Propiedades: Lectura" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2598" y="411.5" width="122" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-256" value="Nota: Datos de apariencia." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2597.5" y="446.5" width="235" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-257" value="0x2A04" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);" vertex="1" parent="1">
+          <mxGeometry x="2868.5" y="361.5" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-258" value="Característica UUID (Parámetros de conexión)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2868.5" y="341.5" width="261.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-259" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#660000);strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2868.5" y="406.5" width="250" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-260" value="Propiedades: Lectura" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2876.5" y="411.5" width="122" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-261" value="Nota: Datos de conexión." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2876" y="446.5" width="152.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-263" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Servicio de Acceso Genérico&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2564.25" y="226.5" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-267" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1010" y="500" as="sourcePoint" />
+            <mxPoint x="1290" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1160" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-268" value="Conexión activa apaga la publicidad BLE y permite usar los servicios GATT" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="446.5" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-269" value="Desconexión enciende la publicidad BLE y se cierran los servicios GATT" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="530" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
