@@ -1,17 +1,26 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="28.2.9">
   <diagram name="Página-1" id="cmYPZnpsak6by6nr6NV-">
-    <mxGraphModel dx="591" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1216" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3-16tjFMUy_3xAsQ03og-1" value="Beacon Diagrama - BLE funcionamiento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="710" y="20" width="990" height="50" as="geometry" />
+        <mxCell id="3-16tjFMUy_3xAsQ03og-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFCC;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="440" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="3-16tjFMUy_3xAsQ03og-2" value="Tipo: Nombre Completo&lt;div&gt;Valor hex: 0x09&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#000099);" vertex="1" parent="1">
-          <mxGeometry x="290" y="220" width="130" height="130" as="geometry" />
+        <mxCell id="3-16tjFMUy_3xAsQ03og-1" value="Beacon Diagrama - BLE funcionamiento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="690" y="10" width="990" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3-16tjFMUy_3xAsQ03og-3" value="FSMstate : State Table" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="495" y="240" width="90" height="50" as="geometry" />
+          <mxGeometry x="80" y="30" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3-16tjFMUy_3xAsQ03og-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Datos de la capa GAP (Advertisement)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="350" y="70" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3-16tjFMUy_3xAsQ03og-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Datos de la capa GATT (Conección)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1590" y="80" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3-16tjFMUy_3xAsQ03og-2" value="Tipo: Nombre Completo&lt;div&gt;Valor hex: 0x09&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#000099);" vertex="1" parent="1">
+          <mxGeometry x="820" y="260" width="130" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
