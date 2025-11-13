@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.0.2">
   <diagram name="Página-1" id="cmYPZnpsak6by6nr6NV-">
-    <mxGraphModel dx="2585" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2954" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,9 +39,6 @@
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-6" value="Valor hex: 0x07" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="262.5" y="370" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1850" y="710" width="290" height="250" as="geometry" />
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-12" value="SMART_BEACON" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#000099);" vertex="1" parent="1">
           <mxGeometry x="1080" y="300" width="110" height="30" as="geometry" />
@@ -174,6 +171,18 @@
         </mxCell>
         <mxCell id="J9ODKmnOTcjMQMIpr3Yd-106" value="Dato (Valor de bandera)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="412.5" y="560" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-107" value="&lt;br&gt;&lt;div&gt;Nota: Los datos de publicidad y la respuesta de escaneo cuanta cada una con 31 bytes para mandar data, estos bytes son los Tipos, los datos y se debe considerar un byte extra por la cantidad de tipos que tenga la publicidad y la respuesta, ya que incluye la longitud.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="820" width="1445" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-108" value="Nota: La configuración de datos para el UID y URL Eddystone depende del usuario." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="77.5" y="910" width="465" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-109" value="&lt;div&gt;Nota: El intervalo del envío de la publicidad y la potencia del mismo se pueden configurar por Slot.&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="77.5" y="880" width="545" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9ODKmnOTcjMQMIpr3Yd-110" value="&lt;div&gt;Nota: La publicidad del Beacon para configurar el UID y URL cuenta con 3 slots, lo que quiere decir que puede configurar 3 publicidades diferentes.&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="850" width="805" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
